@@ -1,5 +1,11 @@
-nama = "Eka Dharma Vidhiatmika"
-print ("selamat Pagi, " + nama)
-print ("selamat Siang, " + nama)
-print ("selamat Malam, " + nama)
+#include <stdio.h>
+
+int main()
+{
+    char nama[] = "Eka Dharma Vidhiatmika";
+    printf("Selamat Pagi, %s\n", nama );
+    printf("Selamat Siang, %s\n", nama );
+    printf("Selamat Malam, %s\n", nama );
+    return 0;
+} 
 
