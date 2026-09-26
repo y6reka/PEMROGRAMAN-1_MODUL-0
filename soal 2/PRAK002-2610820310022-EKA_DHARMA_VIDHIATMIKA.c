@@ -1,7 +1,5 @@
-#include <stdio.h>
-
-int main(){
-    printf("Saya Calon Programmer No. 1");
-    return 0;
-}
+nama = "Eka Dharma Vidhiatmika"
+print ("selamat Pagi, " + nama)
+print ("selamat Siang, " + nama)
+print ("selamat Malam, " + nama)
 
